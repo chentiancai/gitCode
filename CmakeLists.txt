@@ -1,0 +1,3 @@
+project(MYCPP)
+
+add_executable(MYCPPP main.cpp)

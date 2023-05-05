@@ -1,0 +1,3 @@
+D:\profession_software\vscode\CMake\install\bin\cmake.exe -E rm -f CMakeFiles\MYCPPP.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\MYCPPP.dir/objects.a @CMakeFiles\MYCPPP.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\MYCPPP.dir/objects.a -Wl,--no-whole-archive -o MYCPPP.exe -Wl,--out-implib,libMYCPPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MYCPPP.dir\linkLibs.rsp

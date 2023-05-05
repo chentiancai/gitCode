@@ -1,0 +1,3 @@
+C:/Users/chentiancai/Desktop/C++/build/CMakeFiles/MYCPPP.dir
+C:/Users/chentiancai/Desktop/C++/build/CMakeFiles/edit_cache.dir
+C:/Users/chentiancai/Desktop/C++/build/CMakeFiles/rebuild_cache.dir

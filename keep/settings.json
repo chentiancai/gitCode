@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "security.workspace.trust.untrustedFiles": "open",
+    //"backgroundCover.imagePath": "c:\\Users\\陈天才\\Desktop\\壁纸\\66ed3b33c0ab748135a8e9c99be25b2b92cfbcdc4ba49f6127b3eaa8d0faa7ff.jpg",
+    //"backgroundCover.opacity": 0.3,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "explorer.confirmDelete": false
+}

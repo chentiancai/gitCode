@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/chentiancai/Desktop/C++/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\MYCPPP.dir\\main.cpp.obj -c C:\\Users\\chentiancai\\Desktop\\C++\\main.cpp",
+  "file": "C:/Users/chentiancai/Desktop/C++/main.cpp",
+  "output": "CMakeFiles/MYCPPP.dir/main.cpp.obj"
+}
+]
